@@ -5,7 +5,9 @@
    - Once any question is answered, on the right appears a "result widget" with all the given questions and answers.
 - On the mobile design:
   - "result widget" is not shown in the mobile view.
-  - The age question is split into 3 lines. See "design/3.png".
+  - The age question is split into 3 lines. 
+  
+   <img src="https://github.com/nassimtaghipour/form-rating/blob/master/public/3.png" width="300" height="400">
  - Validation rules for the form:
    - The field `"required"` from the example json data must be taken into account.
    - Password must contain at least 1 lowercase letter and a number.
