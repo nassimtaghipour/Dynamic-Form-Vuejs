@@ -11,9 +11,12 @@
    - Password must contain at least 1 lowercase letter and a number.
    - Email question must pass a simple validation.
  - On Submit, show either "success" or "not valid" somewhere on the page (on your choice).
- - Each question can have a sub-question which appears based on a value given to its parent question (see "design/2.png").
+ - Each question can have a sub-question which appears based on a value given to its parent question.
    for example: sub1 appears if parent question got value 1-2
    sub2 appears when parent value 4-5 and nothing appears on value 3
+
+   
+   <img src="https://github.com/nassimtaghipour/form-rating/blob/master/public/2.png" width="500" height="400">
  
 
 ## Project setup
