@@ -1,4 +1,4 @@
-# form-rating
+The project is implemented by Vuejs and CSS without Bootstrap
 
 - Business logic:
    - Given there are 5 types of questions: rating, age, email, password and comment.
